@@ -1,0 +1,10 @@
+dzien zamiast id?
+interwał na tworzenie dnia :
+	* thread
+	* schedule- z naciskiem na to drugie
+logowanie- posilki dla konkretnych kont
+
+lambda
+threads
+
+5464 pin mt2
